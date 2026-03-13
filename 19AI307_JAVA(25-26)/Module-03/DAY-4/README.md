@@ -40,8 +40,8 @@ To design a unified controller system using Java Interfaces where different gami
  ```
 /*
 Program to implement a Interface using Java
-Developed by: MUKESH R
-RegisterNumber: 212223240100
+Developed by: A. Sherwin Infano
+RegisterNumber: 212224040312
 */
 ```
 
@@ -141,6 +141,7 @@ public class GameInputSimulator {
 
 ## RESULT:
 Therefore the program successfully unifies different gaming controllers using a common interface.
+
 
 
 
